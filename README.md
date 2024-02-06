@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on an **E-commerce project**
+- 🔭 I’m currently working on **React.Js**
 
 - 💬 Ask me about **Web Development**,**Java** and **OOPs**
 
